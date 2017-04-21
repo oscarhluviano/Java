@@ -10,7 +10,7 @@ public class Carta
 	public Carta(){}
 
 /**
-* Contructor de la carta
+* Constructor de la carta
 * @param numero Numero de la carta
 * @param color Color de la carta
 * @param palo Palo de la carta
