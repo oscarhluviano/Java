@@ -30,14 +30,9 @@ public class Mazo extends Carta
 	ArrayList<Carta> pila2 = new ArrayList<Carta>();
 	ArrayList<Carta> pila3 = new ArrayList<Carta>();
 	ArrayList<Carta> pila4 = new ArrayList<Carta>();
-	ArrayList<Carta> pila5 = new ArrayList<Carta>();
-	ArrayList<Carta> pila6 = new ArrayList<Carta>();
-	ArrayList<Carta> pila7 = new ArrayList<Carta>();
+
 	ArrayList<Carta> pila_Reserva = new ArrayList<Carta>();
-	ArrayList<Carta> pila_A1 = new ArrayList<Carta>();
-	ArrayList<Carta> pila_A2 = new ArrayList<Carta>();
-	ArrayList<Carta> pila_A3 = new ArrayList<Carta>();
-	ArrayList<Carta> pila_A4 = new ArrayList<Carta>();
+
 	ArrayList<Carta> pila_origen;					/*-> Para manejar los datos que ingreso el usuario relacionados a la pila origen*/
 	ArrayList<Carta> pila_destino;					/*-> Para manejar los datos que ingreso el usuario relacionados a la pila destino*/
 
