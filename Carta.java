@@ -13,7 +13,6 @@ public class Carta
 * Constructor de la carta
 * @param numero Numero de la carta
 * @param color Color de la carta
-* @param palo Palo de la carta
 */
 	public Carta (int numero, String color, String palo)
 	{
